@@ -1,0 +1,12 @@
+2024-10-14 20:48:35 INFO  LogCapture:33 - User Changes Category Type To Electronics From Dropdown
+2024-10-14 20:48:36 INFO  LogCapture:33 - User Search for a product iphone 13
+2024-10-14 20:48:37 INFO  LogCapture:33 - Verifying All Search Result Related to iphone 13
+2024-10-14 20:48:38 INFO  LogCapture:33 - User Search for a product IPhone 13 128 GB
+2024-10-14 20:48:41 INFO  LogCapture:33 - User Clicked on Search result Successfully
+2024-10-14 20:48:41 INFO  LogCapture:33 - Validation Selected product is opened in new tab
+2024-10-14 20:48:46 INFO  LogCapture:33 - New window opened successfully!
+2024-10-14 20:48:46 INFO  LogCapture:33 - User is clicking on Apple Store Link
+2024-10-14 20:48:48 INFO  LogCapture:33 - User is clicking on Apple Watch Link
+2024-10-14 20:48:48 INFO  LogCapture:33 - User is clicking on Apple Watch SE
+2024-10-14 20:48:50 INFO  LogCapture:33 - User Hover on Apple Watch SE Image
+2024-10-14 20:48:51 INFO  LogCapture:33 - Verifying product opened on Quick Look

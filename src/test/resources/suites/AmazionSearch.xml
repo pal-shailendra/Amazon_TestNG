@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Amazon Search Test">
+    <test name="Amazon Test for iphone">
+        <parameter name="BROWSER" value="chrome"/>
+        <classes>
+            <class name="com.Amazon.testcases.SearchTest"/>
+        </classes>
+    </test>
+
+</suite>
